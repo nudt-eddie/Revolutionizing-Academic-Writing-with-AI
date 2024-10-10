@@ -1,4 +1,4 @@
-Eddie's Paper Writer: Revolutionizing Academic Writing with AI
+##Eddie's Paper Writer: Revolutionizing Academic Writing with AI
 Welcome to Eddie's Paper Writer, a cutting-edge AI-driven project that redefines the way academic papers are generated and refined. This project leverages the power of advanced language models and a sophisticated Actor-Critic system to produce high-quality, academically rigorous papers with unparalleled efficiency and accuracy.
 
 🌟 Key Features
@@ -44,10 +44,9 @@ Paper Length: Generates papers of approximately 6000 words with a balanced distr
 Methodology Detail: Provides detailed methodology and experimental sections.
 
 📝 Example Usage
-python
-复制
+
 api_key = "your_openai_api_key"
-initial_prompt = """BTGen-GA: Revolutionizing Behavior Tree Generation with Genetic Algorithm and LLM..."""
+initial_prompt = """"""
 compare_responses(api_key, initial_prompt)
 📁 Output
 Single Actor Outline: single_actor_outline.txt
